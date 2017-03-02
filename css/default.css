@@ -1,0 +1,36 @@
+
+p {  font-family: Arial, Helvetica, sans-serif; font-size: 13px }
+b {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold }
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 13px }
+th {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold }
+li {  font-family: Arial, Helvetica, sans-serif; font-size: 13px }
+h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold }
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold }
+h3 {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold }
+a { text-decoration: none }
+a:link {  font-family: Arial, Helvetica, sans-serif; font-weight: bold }
+a:active {  font-family: Arial, Helvetica, sans-serif; font-weight: bold }
+a:visited { font-family: Arial, Helvetica, sans-serif; font-weight: bold }
+
+body { background-color: #124962; color: #ffffff }
+body { background-image: url(/images/mw.gif); background-position: top left; background-repeat: no-repeat  }
+
+h1 { color: #b0b080 }
+h2 { color: #b0b080 }
+h3 { color: #b0b080 }
+a { text-decoration: underline }
+a:link { color: #c0c080 }
+a:visited { color: #a0b080 }
+a:hover { text-decoration: underline }
+
+body {
+scrollbar-arrow-color: #000000;
+scrollbar-base-color: #003300;
+scrollbar-dark-shadow-color: #999900;
+scrollbar-track-color: #123952;
+scrollbar-face-color: #125972;
+scrollbar-shadow-color: #DDDDDD;
+scrollbar-highlight-color: #CCCCCC;
+scrollbar-3d-light-color: #ffffff;
+}
+
